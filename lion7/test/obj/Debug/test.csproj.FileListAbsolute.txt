@@ -1,0 +1,7 @@
+C:\Users\jskim\source\repos\Lion7\test\bin\Debug\test.exe.config
+C:\Users\jskim\source\repos\Lion7\test\bin\Debug\test.exe
+C:\Users\jskim\source\repos\Lion7\test\bin\Debug\test.pdb
+C:\Users\jskim\source\repos\Lion7\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\jskim\source\repos\Lion7\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\jskim\source\repos\Lion7\test\obj\Debug\test.exe
+C:\Users\jskim\source\repos\Lion7\test\obj\Debug\test.pdb
