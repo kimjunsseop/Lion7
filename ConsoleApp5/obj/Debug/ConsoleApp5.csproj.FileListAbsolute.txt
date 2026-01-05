@@ -1,0 +1,7 @@
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
