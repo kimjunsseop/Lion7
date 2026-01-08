@@ -22,16 +22,15 @@ namespace ConsoleApp2
             {
                 // 콘솔 클리어
                 Console.Clear();
+                
+                Console.SetCursorPosition(targetX, targetY);
+                Console.Write("🏠");
 
                 // x, y 좌표에 맞게 커서위치 세팅
                 Console.SetCursorPosition(x, y);
 
                 // 그리기
                 Console.Write("●");
-                
-                
-                Console.SetCursorPosition(targetX, targetY);
-                Console.Write("🏠");
 
                 // 여기서 락걸린채 입력 대기, 밑에 로직 실행 후
                 // 다시 콘솔 클리어 및 물체 그리기 + 집 그리기
