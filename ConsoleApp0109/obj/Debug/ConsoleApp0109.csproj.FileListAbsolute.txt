@@ -1,0 +1,7 @@
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp0109\bin\Debug\ConsoleApp0109.exe.config
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp0109\bin\Debug\ConsoleApp0109.exe
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp0109\bin\Debug\ConsoleApp0109.pdb
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp0109\obj\Debug\ConsoleApp0109.csproj.AssemblyReference.cache
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp0109\obj\Debug\ConsoleApp0109.csproj.CoreCompileInputs.cache
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp0109\obj\Debug\ConsoleApp0109.exe
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\ConsoleApp0109\obj\Debug\ConsoleApp0109.pdb
