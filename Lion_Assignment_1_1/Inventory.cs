@@ -27,8 +27,8 @@ namespace Lion_Assignment_1_1
 
         public void ShowInventory()
         {
-            Console.WriteLine($"인벤토리 물약 보유량 : {healItem}");
-            Console.WriteLine($"보유 골드 : {money}G");
+            Console.WriteLine($"💊 : {healItem}");
+            Console.WriteLine($"🪙  : {money}G");
         }
 
         public void Progress(Player player)
@@ -57,8 +57,8 @@ namespace Lion_Assignment_1_1
         public void Render(Player p)
         {
             Console.WriteLine("======================");
-            Console.WriteLine($"보유 골드 : {p.inventory.money}");
-            Console.WriteLine($"물약 수량 : {p.inventory.healItem}");
+            Console.WriteLine($"\U0001fa99 : {p.inventory.money}");
+            Console.WriteLine($"💊 : {p.inventory.healItem}");
             Console.WriteLine("======================");
         }
         public Inventory()

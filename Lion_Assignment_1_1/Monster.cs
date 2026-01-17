@@ -32,7 +32,7 @@ namespace Lion_Assignment_1_1
         {
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine("몬스터 : " + strName);
-            Console.WriteLine("체력 : " + iHp + "\t공격력 : " + iAttack);
+            Console.WriteLine("❤️ : " + iHp + "\t공격력 : " + iAttack);
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■");
         }
 

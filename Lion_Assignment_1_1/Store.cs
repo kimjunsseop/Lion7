@@ -65,6 +65,9 @@ namespace Lion_Assignment_1_1
                     case Thief t:
                         ThiefUpgrade(t);
                         break;
+                    case Archer a:
+                        ArcherUpgrade(a);
+                        break;
                 }
                 break;
             }
@@ -103,7 +106,11 @@ namespace Lion_Assignment_1_1
                         }
                         break;
                 }
-                if(iInput == 4) break;
+                if (iInput == 4)
+                {
+                    Console.Clear();
+                    break;
+                }
 
             }
         }
@@ -174,6 +181,44 @@ namespace Lion_Assignment_1_1
 
             }
         }
+
+        public void ArcherUpgrade(Archer a)
+        {
+            int iInput;
+
+            while (true)
+            {
+                Console.Clear();
+                a.Render();
+                Console.WriteLine("▼ ▼ 업그레이드 항목 ▼ ▼");
+                Console.WriteLine();
+                Console.WriteLine("1. 화살공격(10G) 2. 화살충전(1G) 3. 화살통(5G) 4. 나가기: ");
+                iInput = int.Parse(Console.ReadLine());
+                switch (iInput)
+                {
+                    case 1:
+                        if (player.inventory.money >= 10)
+                        {
+                            a.bowPower += 5;
+                        }
+                        break;
+                    case 2:
+                        if (player.inventory.money >= 1)
+                        {
+                            a.bowNum += 1;
+                        }
+                        break;
+                    case 3:
+                        if (player.inventory.money >= 10)
+                        {
+                            a.maxBowNum += 5;
+                        }
+                        break;
+                }
+                if (iInput == 4) break;
+
+            }
+        }
         public void entraceStore(Player player)
         {
             switch(player)
@@ -186,6 +231,9 @@ namespace Lion_Assignment_1_1
                     break;
                 case Thief t:
                     this.player = (Thief)player;
+                    break;
+                case Archer a:
+                    this.player = (Archer)player;
                     break;
 
             }

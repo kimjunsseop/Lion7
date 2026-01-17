@@ -70,6 +70,12 @@ namespace Lion_Assignment_1_1
                             t.FightInfo(m_pMonster);
                             t.inventory.money += 10;
                             break;
+                        case Archer a:
+                            a.SetDamage(m_pMonster.iAttack);
+                            m_pMonster.SetDamage(a.attack());
+                            a.FightInfo(m_pMonster);
+                            a.inventory.money += 10;
+                            break;
 
                     }
                 }

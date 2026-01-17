@@ -34,9 +34,9 @@ namespace Lion_Assignment_1_1
         public override void Render()
         {
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
-            Console.WriteLine("직업 이름 : " + strName);
-            Console.WriteLine("체력 : " + iHp + "\t공격력 : " + attackPower);
-            Console.WriteLine("방어력 : "+ defense);
+            Console.WriteLine("▶ " + strName + " ◀");
+            Console.WriteLine("❤️ : " + iHp + "\t🗡️ : " + attackPower);
+            Console.WriteLine("🛡️ : " + defense);
             inventory.ShowInventory();
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine();

@@ -35,6 +35,9 @@ namespace Lion_Assignment_1_1
                 case 3:
                     m_pPlayer = new Thief();
                     break;
+                case 4:
+                    m_pPlayer = new Archer();
+                    break;
                 default:
                     m_pPlayer = new Player();
                     break;

@@ -6,44 +6,47 @@ using System.Threading.Tasks;
 
 namespace Lion_Assignment_1_1
 {
-    public class Wizard : Player
+    public class Archer : Player
     {
-        public int mp;
-        public int maxMP;
-        public int mpPower;
+        public int bowPower;
+        public int bowNum;
+        public int maxBowNum;
 
-        public Wizard()
+        public Archer()
         {
-            this.strName = "마법사";
+            this.strName = "궁수";
             this.maxHP = 70;
             this.iHp = maxHP;
-            this.maxMP = 50;
-            this.mpPower = 40;
-            this.mp = maxMP;
+            this.bowPower = 30;
+            this.bowNum = 5;
+            this.maxBowNum = bowNum;
             this.inventory = new Inventory();
+        }
+
+        public override void SetDamage(int iAttack)
+        {
+            iHp -= iAttack;
         }
 
         public override int attack()
         {
-            if (this.mp > 0)
+            if(this.bowNum > 0)
             {
-                return mpPower;
+                bowNum -= 1;
             }
-            return 0;
+            return this.bowPower;
         }
 
         public override void Render()
         {
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine("▶ " + strName + " ◀");
-            Console.WriteLine("❤️ : " + iHp + "\t마력 : " + mpPower);
-            Console.WriteLine($"🩹 : {mp}/{maxMP}");
-            
+            Console.WriteLine("❤️ : " + iHp + "\t💘 : " + bowPower);
+            Console.WriteLine($"🏹 : {bowNum} / {maxBowNum}" );
             inventory.ShowInventory();
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine();
         }
-
 
         public override void useHealItem()
         {
@@ -73,8 +76,8 @@ namespace Lion_Assignment_1_1
                 Console.WriteLine("=================");
                 Console.WriteLine($"직업 : {strName}");
                 Console.WriteLine($"현재 체력 : {iHp}");
-                Console.WriteLine($"마력 : {mpPower}");
-                Console.WriteLine($"남은 마나 : {mp}");
+                Console.WriteLine($"화살 공격 : {bowPower}");
+                Console.WriteLine($"남은 화살 : {bowNum}");
                 Console.WriteLine("=================");
                 Console.WriteLine("1. 나가기");
                 iInput = int.Parse(Console.ReadLine());
