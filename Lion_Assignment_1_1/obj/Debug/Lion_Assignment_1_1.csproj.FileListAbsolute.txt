@@ -1,0 +1,7 @@
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\Lion_Assignment_1_1\bin\Debug\Lion_Assignment_1_1.exe.config
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\Lion_Assignment_1_1\bin\Debug\Lion_Assignment_1_1.exe
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\Lion_Assignment_1_1\bin\Debug\Lion_Assignment_1_1.pdb
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\Lion_Assignment_1_1\obj\Debug\Lion_Assignment_1_1.csproj.AssemblyReference.cache
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\Lion_Assignment_1_1\obj\Debug\Lion_Assignment_1_1.csproj.CoreCompileInputs.cache
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\Lion_Assignment_1_1\obj\Debug\Lion_Assignment_1_1.exe
+C:\Users\jskim\OneDrive\문서\GitHub\Lion7\Lion_Assignment_1_1\obj\Debug\Lion_Assignment_1_1.pdb

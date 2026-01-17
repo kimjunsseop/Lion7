@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\consoleapp9\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\consoleapp9\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\consoleapp9\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5D36273-9B0E-48F1-A7A1-02C57945507A}|ConsoleApp9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,24 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Store.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\Store.cs",
               "RelativeDocumentMoniker": "Store.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\Store.cs",
               "RelativeToolTip": "Store.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwDgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T11:01:04.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:01:04.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\Inventory.cs",
               "RelativeDocumentMoniker": "Inventory.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "Inventory.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T04:43:40.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T04:43:40.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Field.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\Field.cs",
               "RelativeDocumentMoniker": "Field.cs",
@@ -80,12 +78,11 @@
               "RelativeToolTip": "Field.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:37:19.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T02:37:19.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Info.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\Info.cs",
               "RelativeDocumentMoniker": "Info.cs",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Info.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:12:41.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T02:12:41.838Z"
             },
             {
               "$type": "Document",
@@ -106,12 +102,11 @@
               "RelativeToolTip": "Monster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:32:35.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T02:32:35.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -119,18 +114,17 @@
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T02:11:32.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T02:11:32.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MainGame.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\MainGame.cs",
               "RelativeDocumentMoniker": "MainGame.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\ConsoleApp9\\MainGame.cs",
               "RelativeToolTip": "MainGame.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T02:23:49.254Z",
               "EditorCaption": ""
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:43:35.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T01:43:35.868Z"
             }
           ]
         }
