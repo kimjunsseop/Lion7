@@ -18,8 +18,12 @@ namespace Lion_Assignment_1_1
         }
         public void SelectJob(out Player m_pPlayer)
         {
-            Console.WriteLine("★★★ RPG ★★★");
-            Console.WriteLine("직업을 선택하세요(1.전사 2.마법사 3.닌자 4.궁수) :");
+            Console.WriteLine(" ★ ★ ★ RPG ★ ★ ★ ");
+            Console.WriteLine("직업을 선택하세요 :");
+            Console.WriteLine("1.   전사 : 🗡️");
+            Console.WriteLine("2. 마법사 : 🧹");
+            Console.WriteLine("3.   도적 : ⚔️");
+            Console.WriteLine("4.   궁수 : 🏹");
             int iInput = 0;
 
             iInput = int.Parse(Console.ReadLine());
@@ -39,7 +43,7 @@ namespace Lion_Assignment_1_1
                     m_pPlayer = new Archer();
                     break;
                 default:
-                    m_pPlayer = new Player();
+                    m_pPlayer = new Warrior();
                     break;
             }
         }

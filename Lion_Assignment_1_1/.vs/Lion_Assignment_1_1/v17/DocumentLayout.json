@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\lion_assignment_1_1\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\lion_assignment_1_1\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\thief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:thief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\lion_assignment_1_1\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\thief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:thief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\lion_assignment_1_1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|c:\\users\\jskim\\onedrive\\\uBB38\uC11C\\github\\lion7\\lion_assignment_1_1\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2531A6A7-4253-4ECF-89EE-4DA7BBCE6B2E}|Lion_Assignment_1_1.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,95 +58,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Archer.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Archer.cs",
               "RelativeDocumentMoniker": "Archer.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Archer.cs",
               "RelativeToolTip": "Archer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T06:37:24.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Warrior.cs",
-              "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Warrior.cs",
-              "RelativeDocumentMoniker": "Warrior.cs",
-              "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Warrior.cs",
-              "RelativeToolTip": "Warrior.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T08:27:15.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Inventory.cs",
               "RelativeDocumentMoniker": "Inventory.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Inventory.cs",
               "RelativeToolTip": "Inventory.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowEIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T05:36:14.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Store.cs",
+              "RelativeDocumentMoniker": "Store.cs",
+              "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Store.cs",
+              "RelativeToolTip": "Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:21:26.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:35:43.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:21:18.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T08:18:40.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Thief.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Thief.cs",
               "RelativeDocumentMoniker": "Thief.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Thief.cs",
               "RelativeToolTip": "Thief.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:28:13.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Monster.cs",
               "RelativeDocumentMoniker": "Monster.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Monster.cs",
               "RelativeToolTip": "Monster.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:21:04.705Z",
               "EditorCaption": ""
@@ -155,48 +159,61 @@
               "RelativeDocumentMoniker": "Field.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Field.cs",
               "RelativeToolTip": "Field.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwEwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:19:43.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "MainGame.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\MainGame.cs",
               "RelativeDocumentMoniker": "MainGame.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\MainGame.cs",
               "RelativeToolTip": "MainGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:19:32.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Wizard.cs",
               "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Wizard.cs",
               "RelativeDocumentMoniker": "Wizard.cs",
               "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Wizard.cs",
               "RelativeToolTip": "Wizard.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:28:03.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Store.cs",
-              "RelativeDocumentMoniker": "Store.cs",
-              "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Store.cs",
-              "RelativeToolTip": "Store.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAwwHMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T08:21:26.926Z",
+              "WhenOpened": "2026-01-16T08:18:40.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Warrior.cs",
+              "RelativeDocumentMoniker": "Warrior.cs",
+              "ToolTip": "C:\\Users\\jskim\\OneDrive\\\uBB38\uC11C\\GitHub\\Lion7\\Lion_Assignment_1_1\\Warrior.cs",
+              "RelativeToolTip": "Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:27:15.229Z",
               "EditorCaption": ""
             }
           ]

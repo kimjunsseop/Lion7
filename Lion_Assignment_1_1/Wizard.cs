@@ -11,7 +11,6 @@ namespace Lion_Assignment_1_1
         public int mp;
         public int maxMP;
         public int mpPower;
-
         public Wizard()
         {
             this.strName = "마법사";
@@ -20,6 +19,7 @@ namespace Lion_Assignment_1_1
             this.maxMP = 50;
             this.mpPower = 40;
             this.mp = maxMP;
+            this.defense = 0;
             this.inventory = new Inventory();
         }
 
@@ -27,6 +27,7 @@ namespace Lion_Assignment_1_1
         {
             if (this.mp > 0)
             {
+                mp -= 15;
                 return mpPower;
             }
             return 0;
@@ -36,9 +37,16 @@ namespace Lion_Assignment_1_1
         {
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine("▶ " + strName + " ◀");
-            Console.WriteLine("❤️ : " + iHp + "\t마력 : " + mpPower);
-            Console.WriteLine($"🩹 : {mp}/{maxMP}");
-            
+            Console.WriteLine("❤️(체력) : " + iHp + "\t\U0001f9f9(마력) : " + mpPower);
+            Console.WriteLine($"🩹(mp) : {mp}/{maxMP}");
+            if(inventory.isGapot == true)
+            {
+                Console.WriteLine("🛡️(방어력) : " + defense);
+            }
+            if (inventory.holdItem != null)
+            {
+                Console.WriteLine($"장착 아이템 : {inventory.holdItem.Name}  추가 데미지 : {inventory.holdItem.AddAtk}");
+            }
             inventory.ShowInventory();
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine();

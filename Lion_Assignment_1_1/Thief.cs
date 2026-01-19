@@ -16,15 +16,27 @@ namespace Lion_Assignment_1_1
             this.maxHP = 80;
             this.iHp = maxHP;
             this.fastAttack = 20;
+            this.defense = 0;
             this.inventory = new Inventory();
+        }
+        public override int attack()
+        {
+            return this.fastAttack;
         }
 
         public override void Render()
         {
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine("▶ " + strName + " ◀");
-            Console.WriteLine("❤️ : " + iHp + "\t⚔️ : " + fastAttack);
-            
+            Console.WriteLine("❤️(체력) : " + iHp + "\t⚔️(공격력) : " + fastAttack);
+            if (inventory.isGapot == true)
+            {
+                Console.WriteLine("🛡️(방어력) : " + defense);
+            }
+            if (inventory.holdItem != null)
+            {
+                Console.WriteLine($"장착 아이템 : {inventory.holdItem.Name}  추가 데미지 : {inventory.holdItem.AddAtk}");
+            }
             inventory.ShowInventory();
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine();

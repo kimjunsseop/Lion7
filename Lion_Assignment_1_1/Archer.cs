@@ -41,8 +41,16 @@ namespace Lion_Assignment_1_1
         {
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine("▶ " + strName + " ◀");
-            Console.WriteLine("❤️ : " + iHp + "\t💘 : " + bowPower);
-            Console.WriteLine($"🏹 : {bowNum} / {maxBowNum}" );
+            Console.WriteLine("❤️(체력) : " + iHp + "\t💘(화살데미지) : " + bowPower);
+            Console.WriteLine($"🏹(활) : {bowNum} / {maxBowNum}" );
+            if (inventory.isGapot == true)
+            {
+                Console.WriteLine("🛡️(방어력) : " + defense);
+            }
+            if(inventory.holdItem != null)
+            {
+                Console.WriteLine($"장착 아이템 : {inventory.holdItem.Name}  추가 데미지 : {inventory.holdItem.AddAtk}");
+            }
             inventory.ShowInventory();
             Console.WriteLine("■■■■■■■■■■■■■■■■■■■■■■■■■■");
             Console.WriteLine();

@@ -26,9 +26,9 @@ namespace Lion_Assignment_1_1
                 m_pPlayer.Render();
                 DrawMap();
                 iInput = int.Parse(Console.ReadLine());
-                if (iInput == 4) break;
+                if (iInput == 5) break;
 
-                if (iInput <= 3)
+                if (iInput <= 4)
                 {
                     CreateMonster(iInput);
                     Fight();
@@ -54,25 +54,25 @@ namespace Lion_Assignment_1_1
                     {
                         case Warrior w:
                             w.SetDamage(m_pMonster.iAttack);
-                            m_pMonster.SetDamage(w.attack());
+                            m_pMonster.SetDamage(w.attack() + w.TotalAttack());
                             w.FightInfo(m_pMonster);
                             w.inventory.money += 10;
                             break;
                         case Wizard z:
                             z.SetDamage(m_pMonster.iAttack);
-                            m_pMonster.SetDamage(z.attack());
+                            m_pMonster.SetDamage(z.attack() + z.TotalAttack());
                             z.FightInfo(m_pMonster);
                             z.inventory.money += 10;
                             break;
                         case Thief t:
                             t.SetDamage(m_pMonster.iAttack);
-                            m_pMonster.SetDamage(t.attack());
+                            m_pMonster.SetDamage(t.attack() + t.TotalAttack());
                             t.FightInfo(m_pMonster);
                             t.inventory.money += 10;
                             break;
                         case Archer a:
                             a.SetDamage(m_pMonster.iAttack);
-                            m_pMonster.SetDamage(a.attack());
+                            m_pMonster.SetDamage(a.attack() + a.TotalAttack());
                             a.FightInfo(m_pMonster);
                             a.inventory.money += 10;
                             break;
@@ -114,7 +114,9 @@ namespace Lion_Assignment_1_1
                 case 3:
                     m_pMonster = Create("골렘", 90, 9);
                     //m_pMonster.Render();
-
+                    break;
+                case 4:
+                    m_pMonster = Create("엔더이무기", 300, 20);
                     break;
 
             }
@@ -126,7 +128,8 @@ namespace Lion_Assignment_1_1
             Console.WriteLine("2. 던전으로 가는 길");
             Console.WriteLine("3. 던전");
             //Console.WriteLine("4. 인벤토리");
-            Console.WriteLine("4. 전단계");
+            Console.WriteLine("4. 지옥");
+            Console.WriteLine("5. 전단계");
             Console.WriteLine("=============");
             Console.WriteLine("맵을 선택하세요 : ");
         }

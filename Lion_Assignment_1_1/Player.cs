@@ -1,16 +1,18 @@
 ﻿    using System;
     using System.Collections.Generic;
     using System.Linq;
+    using System.Net.Http.Headers;
     using System.Text;
     using System.Threading.Tasks;
 
     namespace Lion_Assignment_1_1
     {
-        public class Player
+        abstract public class Player
         {
             public string strName;
             public int iHp;
             public int maxHP;
+            public int defense;
             public Inventory inventory;
 
             public virtual void SetDamage(int iAttack)
@@ -26,31 +28,25 @@
             {
                 return iHp;
             }
+            public int TotalAttack()
+            {
+                if(inventory.holdItem != null)
+                {
+                    return inventory.holdItem.AddAtk;
+                }
+                return 0;
+            }
 
             public void SetHp(int iHp)
             {
                 iHp = iHp;
             }
-            public virtual int attack()
-            {
-                return 0;
-            }
+            public abstract int attack();
 
-            public virtual void Render()
-            {
+            abstract public void Render();
+            abstract public void useHealItem();
 
-            }
-
-            public virtual void useHealItem()
-            {
-    
-                
-            }
-
-            public virtual void ShowDetail()
-            {
-                
-            }
+            abstract public void ShowDetail();
 
             public void FightInfo(Monster m)
             {
